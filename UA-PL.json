@@ -1,0 +1,127 @@
+{
+  "SourceLang": "Ukrainian",
+  "TargetLang": "Polish",
+  "Words": [
+    {
+      "SourceWord": "Привіт",
+      "TargetWords": [
+        "Cześć"
+      ]
+    },
+    {
+      "SourceWord": "Автомобіль",
+      "TargetWords": [
+        "Samochód"
+      ]
+    },
+    {
+      "SourceWord": "Дім",
+      "TargetWords": [
+        "Dom"
+      ]
+    },
+    {
+      "SourceWord": "Книга",
+      "TargetWords": [
+        "Książka"
+      ]
+    },
+    {
+      "SourceWord": "Сонце",
+      "TargetWords": [
+        "Słońce"
+      ]
+    },
+    {
+      "SourceWord": "Місяць",
+      "TargetWords": [
+        "Księżyc"
+      ]
+    },
+    {
+      "SourceWord": "Річка",
+      "TargetWords": [
+        "Rzeka"
+      ]
+    },
+    {
+      "SourceWord": "Ліс",
+      "TargetWords": [
+        "Las"
+      ]
+    },
+    {
+      "SourceWord": "Місто",
+      "TargetWords": [
+        "Miasto"
+      ]
+    },
+    {
+      "SourceWord": "Дорога",
+      "TargetWords": [
+        "Droga"
+      ]
+    },
+    {
+      "SourceWord": "Собака",
+      "TargetWords": [
+        "Pies"
+      ]
+    },
+    {
+      "SourceWord": "Кішка",
+      "TargetWords": [
+        "Kot"
+      ]
+    },
+    {
+      "SourceWord": "Хліб",
+      "TargetWords": [
+        "Chleb"
+      ]
+    },
+    {
+      "SourceWord": "Вода",
+      "TargetWords": [
+        "Woda"
+      ]
+    },
+    {
+      "SourceWord": "Мороз",
+      "TargetWords": [
+        "Mróz"
+      ]
+    },
+    {
+      "SourceWord": "Весна",
+      "TargetWords": [
+        "Wiosna"
+      ]
+    },
+    {
+      "SourceWord": "Літній",
+      "TargetWords": [
+        "Letni"
+      ]
+    },
+    {
+      "SourceWord": "Зима",
+      "TargetWords": [
+        "Zima"
+      ]
+    },
+    {
+      "SourceWord": "Осінь",
+      "TargetWords": [
+        "Jesień"
+      ]
+    },
+    {
+      "SourceWord": "Друзі",
+      "TargetWords": [
+        "Przyjaciele"
+      ]
+    }
+  ],
+  "DictName": "Ukrainian-Polish Dictionary"
+}

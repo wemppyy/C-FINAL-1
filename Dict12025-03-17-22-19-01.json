@@ -1,0 +1,19 @@
+{
+  "SourceLang": "English",
+  "TargetLang": "Spanish",
+  "Words": [
+    {
+      "SourceWord": "Hello",
+      "TargetWords": [
+        "Halo"
+      ]
+    },
+    {
+      "SourceWord": "Car",
+      "TargetWords": [
+        "Carone"
+      ]
+    }
+  ],
+  "DictName": "Dict1"
+}
