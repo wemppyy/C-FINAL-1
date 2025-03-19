@@ -51,7 +51,7 @@ namespace C__FINAL_1.app
         {
             if (Words.Exists(x => x.SourceWord == sourceWord))
             {
-                word w = Words.Find(x => x.SourceWord == sourceWord);
+                word w = Words.FirstOrDefault(x => x.SourceWord == sourceWord);
                 w.DeleteTargetWord(targetWord);
             }
             else

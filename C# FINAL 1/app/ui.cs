@@ -83,11 +83,11 @@ namespace C__FINAL_1.app
             switch (option)
             {
                 case 1:
-                    Console.WriteLine("Enter word: ");
+                    Console.WriteLine("Enter word ({0}): ", Dictionaries[index].SourceLang);
                     string word = Console.ReadLine();
 
                     Console.Clear();
-                    Console.WriteLine("1. Add target words");
+                    Console.WriteLine("1. Add word to dictionary");
                     Console.WriteLine("2. Delete");
                     Console.WriteLine("3. Change");
                     Console.WriteLine("4. Add target");
@@ -235,7 +235,7 @@ namespace C__FINAL_1.app
 
         public void addWord(int index, string sourceWord)
         {
-            Console.WriteLine("Enter target words separated by comma: ");
+            Console.WriteLine("Enter target words separated by comma ({0}): ", Dictionaries[index].TargetLang);
             string targetWords = Console.ReadLine();
             List<string> targetWordsList = targetWords.Split(',').ToList();
 
@@ -246,6 +246,8 @@ namespace C__FINAL_1.app
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
+                Console.WriteLine("Press any key to continue");
+                Console.ReadKey();
             }
         }
 
